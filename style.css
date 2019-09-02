@@ -1,0 +1,26 @@
+#cont{
+    width:700px;
+    margin:auto;
+border-style:solid;
+}
+.af{
+    border-style:solid;
+    width:50%;
+    height:500px;
+    margin:auto;    
+}
+.seperate{
+    border-right:5px solid black;
+}
+.ar{
+    border-style:solid;
+    width:350px;
+    height:500px;
+}  
+h3{
+    text-align:center;
+    border-bottom: 2px solid black 
+}
+.save{
+    display:none;
+}
